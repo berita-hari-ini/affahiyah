@@ -5,4 +5,4 @@ User-agent: googlebot-mobile
 Disallow:   
 User-agent: *  
 Disallow: 
-Sitemap: https://berita-hari-ini.github.io/affahiyh/sitemap.xml
+Sitemap: https://berita-hari-ini.github.io/affahiyah/sitemap.xml
